@@ -10,8 +10,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      {/* <Skills />
-      <Work /> */}
+
       <Experience />
       <Contact />
     </div>

@@ -19,8 +19,8 @@ const PROJECTS = [
     title: "Portfolio Website",
     tech: "React, Vite, Tailwind CSS",
     desc: "Modern responsive portfolio with smooth animations and dark premium UI.",
-    github: "https://github.com/zaminaliabro/react-portfolio-real",
-    demo: "https://your-demo.vercel.app",
+    github: "https://github.com/zaminaliabro/portfolio-react",
+    demo: "https://portfolio-react-5ttuflniw-zamin-ali1.vercel.app",
   },
 ];
 function useInView() {
